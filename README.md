@@ -13,7 +13,6 @@ Welcome to **PyTools and Treasures** – a collection of Python utilities, scrip
 📂 pyTools-and-Treasures/
 ├── 📂 utilities/       # Standalone utility scripts
 ├── 📂 projects/        # Full projects and solutions
-├── 📂 examples/        # Examples to demonstrate usage
 └── README.md           # This file
 ```
 
