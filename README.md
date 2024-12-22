@@ -15,3 +15,19 @@ Welcome to **PyTools and Treasures** – a collection of Python utilities, scrip
 ├── 📂 projects/        # Full projects and solutions
 ├── 📂 examples/        # Examples to demonstrate usage
 └── README.md           # This file
+
+## 🛠️ Setting Up the Environment
+
+To ensure compatibility and reproducibility, it's recommended to create a dedicated Conda environment:
+
+```
+conda create -n pyTools-and-Treasures -c conda-forge python=3.11.9
+```
+
+Once created, activate the environment and install requirements:
+
+```
+conda activate pyTools-and-Treasures
+pip install -r requirements.txt
+```
+
