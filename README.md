@@ -15,6 +15,7 @@ Welcome to **PyTools and Treasures** – a collection of Python utilities, scrip
 ├── 📂 projects/        # Full projects and solutions
 ├── 📂 examples/        # Examples to demonstrate usage
 └── README.md           # This file
+```
 
 ## 🛠️ Setting Up the Environment
 
